@@ -1,3 +1,8 @@
-- 👋 Hi, I’m Beyza Aksoy - @beyzaaksoyxx
-- I am studying at Isık University ✨
-- 💻 I am currently learning Computer Programming.
+- 👋 ##Merhaba, ben beyza aksoy - @beyzaaksoyxx
+- Işık Üniversitesinde okuyorum ✨
+- 💻Bilgisayar Programcılığı bölümünde okuyorum
+
+Bildiğim Diller:
+-
+
+
