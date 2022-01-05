@@ -3,6 +3,9 @@
 - 💻Bilgisayar Programcılığı bölümünde okuyorum
 
 Bildiğim Diller:
--
+ 
+-SQL
+
+-C
 
 
