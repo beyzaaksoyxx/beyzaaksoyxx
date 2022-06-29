@@ -5,8 +5,9 @@
 <h1> Bildiğim Diller: </h1>
  
 -SQL
-
+-C#
 -C
+
 
 <h1> Sosyal Medya </h1>
 1.<ing
