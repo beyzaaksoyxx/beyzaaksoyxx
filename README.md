@@ -5,7 +5,9 @@
 <h1> Bildiğim Diller: </h1>
  
 -SQL
+
 -C#
+
 -C
 
 
